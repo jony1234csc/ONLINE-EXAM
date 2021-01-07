@@ -1,0 +1,120 @@
+.navbar{
+	box-shadow: 1px 1px 3px;
+	border-bottom: 1px solid blue;
+	background: #CEEDFC;
+	opacity:;
+
+}
+
+.nav-item{
+	font-size: 1.6rem;
+	padding-right: 30px;
+	
+
+}
+.nav-item:last-child{
+	padding-right: 0;
+}
+.loginlist{
+	 list-style-type: none;
+ 	 margin: 0;
+ 	 padding: 0;
+ 	 font-size: 30px;
+}
+.img{
+	height: 836px;
+	margin-top: 118px;
+	padding-left: 7px;
+	margin-left: -7px;
+	margin-bottom: 29px;
+}
+.header{
+
+    font-size: 68px;
+    color: #2D328F;
+    font-weight: bold;
+    background-color:#CEEDFC;
+    font-style: normal;
+    text-align: center;
+    margin-left: 14px;
+
+}
+#grad {
+    background-color:linear-gradient(to bottom, #fdfdfd, #34d54e);
+    }
+    .form-control{
+    	margin-left: 45px;
+    	margin-top: 25px;
+        background-color: #CEEDFC;
+    }
+    .h4{
+    	font-size: 30px; 
+    	font-weight: bold;
+    	color: #FFFFFF;
+    }
+    .p1{
+    	font-size: 50px; 
+    	font-weight: bold;
+    	color: red;
+    }
+    .text-center{
+		margin-top: 23px;
+    }
+    .bg{
+    	background-image: url('../img/background.png');
+        margin-left: 14px;
+        margin-bottom: 16px;
+    }
+    .header1{
+
+    font-size: 68px;
+    color: #C90000;
+    font-weight: bold;
+    background-color:#FFCD44;
+    font-style: normal;
+    text-align: center;
+    margin-left: 14px;
+
+}
+.row{
+    margin-top: 60px;
+}
+.card-body{
+    text-align: center;
+}
+.img-top{
+    margin-top: -75px;
+}
+ .text-top{
+   margin-top: 4px;
+   margin-left:;
+}
+.cirlcle{
+    height: 43px;
+    width: 50px;
+    background: black;
+    margin-left: 233px;
+    border-radius: 50%;
+}
+.content{
+    font-size: 10px;
+    font-weight: bold;
+    color: white;
+} 
+.background-color{
+    background-color: #D1EFF0;
+}
+.logo{
+
+    height: 200px;
+    margin-left: 444px;
+    margin-top: 80px;
+}
+.ayojon{
+    text-align: center;
+    margin-top: 25px;
+}
+.innovationit{
+    font-size: 30px;
+    text-align: center;
+}
