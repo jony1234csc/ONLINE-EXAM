@@ -93,11 +93,11 @@
     height: 43px;
     width: 50px;
     background: black;
-    margin-left: 233px;
     border-radius: 50%;
+    float: right;
 }
 .content{
-    font-size: 10px;
+    font-size:;
     font-weight: bold;
     color: white;
 } 
@@ -107,7 +107,7 @@
 .logo{
 
     height: 200px;
-    margin-left: 444px;
+    margin-left: ;
     margin-top: 80px;
 }
 .ayojon{
@@ -117,4 +117,7 @@
 .innovationit{
     font-size: 30px;
     text-align: center;
+}
+.jony{
+    background-color: #D8D4BB;
 }
